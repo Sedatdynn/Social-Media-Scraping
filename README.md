@@ -3,6 +3,9 @@ Using Python Selenium library, data were scraping from Twitter and Facebook and 
 
 
 selenium
+
 bs4
+
 mysql-connector
+
 matplotlib
